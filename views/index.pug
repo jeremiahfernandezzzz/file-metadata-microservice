@@ -1,5 +1,9 @@
 body
-  form(action='/', method='POST')
+  p
+  |file metadata microservice
+  br 
+  br
+  form(action='/', method='POST', enctype='multipart/form-data')
   
-    input(type='file', name='upvalue='choose file')
+    input(type='file', name='upload', value='choose file')
     input(type='submit', value='get size')

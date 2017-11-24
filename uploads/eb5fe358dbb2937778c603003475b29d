@@ -1,0 +1,101 @@
+2017-08-31 22:13:43,213 DEBUG BsgoAgent.MainWindow - Current directory: D:\BSGO\patcher
+2017-08-31 22:13:50,180 INFO BsgoAgent.MainWindow - MainManifest: https://battlestargalactica-311-client.bpsecure.com/70399/launcher/
+2017-08-31 22:13:51,382 DEBUG BsgoAgent.Manifest.ManifestProxy - Comparing manifests...
+2017-08-31 22:13:51,384 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: cef.pak
+2017-08-31 22:13:51,385 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.BrowserSubprocess.Core.dll
+2017-08-31 22:13:51,385 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.BrowserSubprocess.exe
+2017-08-31 22:13:51,386 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.Core.dll
+2017-08-31 22:13:51,386 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.Core.xml
+2017-08-31 22:13:51,387 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.dll
+2017-08-31 22:13:51,387 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.Wpf.dll
+2017-08-31 22:13:51,388 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.Wpf.xml
+2017-08-31 22:13:51,388 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: CefSharp.xml
+2017-08-31 22:13:51,388 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: cef_100_percent.pak
+2017-08-31 22:13:51,389 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: cef_200_percent.pak
+2017-08-31 22:13:51,389 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: cef_extensions.pak
+2017-08-31 22:13:51,391 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: d3dcompiler_43.dll
+2017-08-31 22:13:51,391 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: d3dcompiler_47.dll
+2017-08-31 22:13:51,392 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: devtools_resources.pak
+2017-08-31 22:13:51,393 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: fastjson.dll
+2017-08-31 22:13:51,393 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: icudtl.dat
+2017-08-31 22:13:51,394 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: Launcher.exe
+2017-08-31 22:13:51,394 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: Launcher.exe.config
+2017-08-31 22:13:51,395 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: Launcher.pdb
+2017-08-31 22:13:51,395 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: libcef.dll
+2017-08-31 22:13:51,395 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: libEGL.dll
+2017-08-31 22:13:51,396 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: libGLESv2.dll
+2017-08-31 22:13:51,396 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/am.pak
+2017-08-31 22:13:51,396 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ar.pak
+2017-08-31 22:13:51,397 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/bg.pak
+2017-08-31 22:13:51,397 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/bn.pak
+2017-08-31 22:13:51,397 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ca.pak
+2017-08-31 22:13:51,397 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/cs.pak
+2017-08-31 22:13:51,398 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/da.pak
+2017-08-31 22:13:51,398 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/de.pak
+2017-08-31 22:13:51,398 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/el.pak
+2017-08-31 22:13:51,399 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/en-GB.pak
+2017-08-31 22:13:51,399 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/en-US.pak
+2017-08-31 22:13:51,412 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/es-419.pak
+2017-08-31 22:13:51,413 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/es.pak
+2017-08-31 22:13:51,413 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/et.pak
+2017-08-31 22:13:51,413 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/fa.pak
+2017-08-31 22:13:51,414 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/fi.pak
+2017-08-31 22:13:51,414 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/fil.pak
+2017-08-31 22:13:51,415 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/fr.pak
+2017-08-31 22:13:51,415 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/gu.pak
+2017-08-31 22:13:51,415 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/he.pak
+2017-08-31 22:13:51,416 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/hi.pak
+2017-08-31 22:13:51,416 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/hr.pak
+2017-08-31 22:13:51,416 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/hu.pak
+2017-08-31 22:13:51,417 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/id.pak
+2017-08-31 22:13:51,417 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/it.pak
+2017-08-31 22:13:51,417 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ja.pak
+2017-08-31 22:13:51,417 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/kn.pak
+2017-08-31 22:13:51,418 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ko.pak
+2017-08-31 22:13:51,418 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/lt.pak
+2017-08-31 22:13:51,418 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/lv.pak
+2017-08-31 22:13:51,419 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ml.pak
+2017-08-31 22:13:51,419 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/mr.pak
+2017-08-31 22:13:51,419 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ms.pak
+2017-08-31 22:13:51,419 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/nb.pak
+2017-08-31 22:13:51,420 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/nl.pak
+2017-08-31 22:13:51,420 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/pl.pak
+2017-08-31 22:13:51,420 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/pt-BR.pak
+2017-08-31 22:13:51,421 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/pt-PT.pak
+2017-08-31 22:13:51,421 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ro.pak
+2017-08-31 22:13:51,421 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ru.pak
+2017-08-31 22:13:51,421 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/sk.pak
+2017-08-31 22:13:51,422 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/sl.pak
+2017-08-31 22:13:51,422 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/sr.pak
+2017-08-31 22:13:51,422 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/sv.pak
+2017-08-31 22:13:51,424 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/sw.pak
+2017-08-31 22:13:51,424 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/ta.pak
+2017-08-31 22:13:51,425 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/te.pak
+2017-08-31 22:13:51,425 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/th.pak
+2017-08-31 22:13:51,426 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/tr.pak
+2017-08-31 22:13:51,426 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/uk.pak
+2017-08-31 22:13:51,426 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/vi.pak
+2017-08-31 22:13:51,427 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/zh-CN.pak
+2017-08-31 22:13:51,427 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: locales/zh-TW.pak
+2017-08-31 22:13:51,428 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: log4net.dll
+2017-08-31 22:13:51,428 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: log4net.xml
+2017-08-31 22:13:51,428 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: natives_blob.bin
+2017-08-31 22:13:51,429 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: NittyGrittyMVC.dll
+2017-08-31 22:13:51,429 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: Patcher.dll
+2017-08-31 22:13:51,430 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: snapshot_blob.bin
+2017-08-31 22:13:51,430 DEBUG Patcher.FilePatcher - Local manifest does not contain resource: widevinecdmadapter.dll
+2017-08-31 22:14:00,931 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.BrowserSubprocess.Core.dll'
+2017-08-31 22:14:02,515 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.BrowserSubprocess.exe'
+2017-08-31 22:14:15,592 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.Core.dll'
+2017-08-31 22:14:18,389 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.Core.xml'
+2017-08-31 22:14:21,284 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.dll'
+2017-08-31 22:14:23,512 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/cef.pak'
+2017-08-31 22:14:25,013 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.Wpf.dll'
+2017-08-31 22:14:25,224 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.Wpf.xml'
+2017-08-31 22:14:28,774 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/cef_100_percent.pak'
+2017-08-31 22:14:29,720 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/CefSharp.xml'
+2017-08-31 22:14:35,331 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/cef_200_percent.pak'
+2017-08-31 22:15:04,493 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/d3dcompiler_43.dll'
+2017-08-31 22:15:17,494 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/cef_extensions.pak'
+2017-08-31 22:15:37,714 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/d3dcompiler_47.dll'
+2017-08-31 22:15:39,040 DEBUG Patcher.FileActions.FileAction - Saving downloaded file 'https://battlestargalactica-311-client.bpsecure.com/70399/launcher/fastjson.dll'

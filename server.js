@@ -4,7 +4,14 @@ var upload = multer({ dest: 'uploads/' })
 
 var app = express()
 
-app.post('/profile', upload.single('avatar'), function (req, res, next) {
+app.set('view engine', 'pug')
+
+app.get('/', function (req,res){
+  res.render('index', { title: 'Hey', message: 'Hello there!' })
+})
+
+app.post('/', upload.single('avatar'), function (req, res, next) {
+  console.log('asdasdasd')
   // req.file is the `avatar` file
   // req.body will hold the text fields, if there were any
 })
